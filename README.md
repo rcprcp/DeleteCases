@@ -36,7 +36,7 @@ That's it.
 ### Running 
 In order to access Zendesk, you will need to configure 3 environment variables. 
 ```shell
-export ZENDESK_EMAIL="https://domain.zendesk.com"
+export ZENDESK_URL="https://domain.zendesk.com"
 export ZENDESK_EMAIL="bob@domain.com"
 export ZENDESK_TOKEN="c0928blahblahblahblahg1h14g5"
 ```
